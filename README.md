@@ -1,5 +1,3 @@
-# portfolio
-
 ## section one
 
 These are my favorite things:
@@ -7,4 +5,4 @@ These are my favorite things:
 * basketball
 * physics
 
-This is a [link](www.google.com)
+This is a [link](https://catherineor.github.io/Portfolio/)
