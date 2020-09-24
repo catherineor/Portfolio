@@ -1,5 +1,3 @@
-# portfolio
-
 ## section one
 
 These are my favorite things:
@@ -7,4 +5,9 @@ These are my favorite things:
 * basketball
 * physics
 
-This is a [link](www.google.com)
+This is a [link](https://catherineor.github.io/Portfolio/)
+
+
+<script src="processing.min.js"></script>
+
+<canvas data-processing-sources="bouncing_ball_scratch.pde"></canvas>
