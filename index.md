@@ -1,9 +1,4 @@
-## section one
-
-These are my favorite things:
-
-* basketball
-* physics
+## Coding projects
 
 This is a [link](https://catherineor.github.io/Portfolio/)
 
