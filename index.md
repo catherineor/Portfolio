@@ -1,6 +1,4 @@
-## Coding projects
-
-This is a [link](https://catherineor.github.io/Portfolio/)
+## Bouncing Balls
 
 <script src="processing.min.js"></script>
 
