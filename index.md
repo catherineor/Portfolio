@@ -1,4 +1,4 @@
-## Bouncing Balls
+## Bouncing Ball
 
 <script src="processing.min.js"></script>
 
